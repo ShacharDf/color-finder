@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/color-finder/precache-manifest.462bed64ad46d30059f626029f010598.js"
+  "/color-finder/precache-manifest.bf90e329d363fb9737613f5a011fe54d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "color-finder"});
